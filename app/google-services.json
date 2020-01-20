@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869678982401",
+    "firebase_url": "https://mmmut-dbms.firebaseio.com",
+    "project_id": "mmmut-dbms",
+    "storage_bucket": "mmmut-dbms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869678982401:android:1bb9c7806c67d9f3",
+        "android_client_info": {
+          "package_name": "com.example.dbmsmmmut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869678982401-5l7n6mr9d1fdk4nc4r97maju341eec80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dbmsmmmut",
+            "certificate_hash": "58ee6e72d4444332e369311f84c0a556d42bcd2d"
+          }
+        },
+        {
+          "client_id": "869678982401-mg2sneb90p27rvm1c7g837a0u3otcn8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS8tvEfAe74ljwkpYApWjE3OuGBVzuHzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869678982401-mg2sneb90p27rvm1c7g837a0u3otcn8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

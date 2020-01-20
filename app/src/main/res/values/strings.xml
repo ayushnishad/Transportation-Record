@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DBMS MMMUT</string>
+    <string-array name="Vehical_no">
+        <item>UP 53 AY 4861</item>
+        <item>UP 53 BV 7913</item>
+        <item>UP 53 AN 4824</item>
+        <item>UP 53 DN 4992</item>
+    </string-array>
+
+</resources>
